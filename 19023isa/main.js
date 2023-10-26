@@ -3,7 +3,7 @@
     document.querySelector('#som_tecla_pom').play ();
  }
 
-document.querySelector('.teclka') 
+document.querySelector('.#som_tecla_pom') 
 
  const listadeteclas
 
